@@ -1,4 +1,6 @@
-# 我Flag呢？(初级)
+# 我Flag呢？(初级)  
+题目地址：https://www.nssctf.cn/problem/3861  
+
 <img width="692" height="602" alt="image" src="https://github.com/user-attachments/assets/cf335953-ce86-4f23-8d35-295f234f2cd5" />
 
 ## 方法1
